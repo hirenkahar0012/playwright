@@ -1,1 +1,1 @@
-CONSOLE.console.log();
+console.log("HIRENDRA SINGH");
